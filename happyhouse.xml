@@ -13,6 +13,12 @@
             <description>Minor updates and improvements.</description>
             <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/happyhouse-order/id6479553838" sparkle:version="1.1.1" sparkle:os="iOS" />            
-        </item>        
+        </item>     
+        <item>
+            <title>Version 1.1.2</title>
+            <description>Шинэ хувилбар гарсан бол шинэчлэх хийх сануулга гардаг болгов.</description>
+            <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/happyhouse-order/id6479553838" sparkle:version="1.1.2" sparkle:os="iOS" />            
+        </item>          
     </channel>
 </rss>
